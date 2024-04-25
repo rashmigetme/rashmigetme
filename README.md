@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Rashmi Gupta</h1>
 <h3 align="center">A Software developer, a Teacher, a Spiritual being.</h3>
-<img align="right" alt="Peaceful Coder" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align="right" alt="Peaceful Coder" width="400" margin="20" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmigetme&label=Profile%20views&color=0e75b6&style=flat" alt="rashmigetme" /> </p>
 
