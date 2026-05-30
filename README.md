@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmigetme&label=Profile%20views&color=0e75b6&style=flat" alt="rashmigetme" /> </p>
 
-- 🌱 I’m currently learning **React, javascript**
+- 🌱 I’m currently learning **AI, Copilot, Python, React, javascript**
 
 - 📫 How to reach me **rashmigetme@yahoo.co.in**
 
